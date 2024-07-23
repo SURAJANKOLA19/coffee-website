@@ -203,7 +203,7 @@ span {
   z-index: 5;
   font-family: inherit;
   color: rgba(255, 255, 255, 0.328);
-  -webkit-text-stroke: 0.2rem rgba(255, 255, 255, 0.328);
+  -webkit-text-stroke: 0.2rem rgba(255, 255, 255, 0.755);
 }
 .glow1,
 .glow2 {
